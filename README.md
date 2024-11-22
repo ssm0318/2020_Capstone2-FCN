@@ -1,7 +1,7 @@
-# Capstone 2 INFINITT healthcare X-ray 팀
+# Capstone 2 INFINITT healthcare X-ray 팀  
 
-Final Score: A+
-
+Final Score: A+  
+  
 자유전공학부 김재원  
 컴퓨터공학부 남재호  
 컴퓨터공학부 박지나  
