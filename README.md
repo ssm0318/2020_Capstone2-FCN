@@ -1,4 +1,4 @@
-# Capstone 2 INFINITT healthcare X-ray 팀  
+# 창의적통합설계2 INFINITT Healthcare X-ray 팀 
 
 Final Score: A+  
   
